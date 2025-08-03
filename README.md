@@ -15,14 +15,12 @@
 ---
 
 🛠 Built With
-
 TypeScript – Reliable and maintainable development
-
 Cloudflare Workers – Fast and scalable edge compute platform
-
 OpenAI / LLM APIs – Language understanding and generation
-
 Custom Vector Search (optional) – For semantic document retrieval
+
+---
 
 📄 License
 This project is open-sourced under the MIT License. Feel free to use, modify, and contribute.
