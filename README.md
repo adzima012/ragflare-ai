@@ -29,8 +29,10 @@ Custom Vector Search (optional) – For semantic document retrieval
 📄 License
 This project is open-sourced under the MIT License. Feel free to use, modify, and contribute.
 
+
 🤝 Contribution
 We welcome community contributions and ideas. If you have feedback, feature requests, or want to collaborate, feel free to open an issue or submit a pull request.
+
 
 📫 Contact
 Developed by Adzima Hafidz
