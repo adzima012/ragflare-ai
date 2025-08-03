@@ -16,8 +16,11 @@
 
 🛠 Built With
 TypeScript – Reliable and maintainable development
+
 Cloudflare Workers – Fast and scalable edge compute platform
+
 OpenAI / LLM APIs – Language understanding and generation
+
 Custom Vector Search (optional) – For semantic document retrieval
 
 ---
